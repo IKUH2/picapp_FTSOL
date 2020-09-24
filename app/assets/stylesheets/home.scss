@@ -2,7 +2,7 @@
   position: relative;
   }
 
-.todays-picture p {
+.todays-picture-text {
   position: absolute;
   color: white;
   font-weight: bold;
@@ -20,3 +20,18 @@
 .todays-picture img {
   width: 100%;
   }
+
+.next-picture-text {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0; 
+  color: white;
+  background: skyblue;
+  font-size: 2em;
+  line-height: 1;
+  padding: 5px 10px;
+  }
+
+a:link {color:white;} 
+a:visited {color:white;} 

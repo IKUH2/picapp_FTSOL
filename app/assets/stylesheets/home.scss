@@ -1,0 +1,22 @@
+.todays-picture {
+  position: relative;
+  }
+
+.todays-picture p {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  font-family :Quicksand, sans-serif;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+  }
+
+.todays-picture img {
+  width: 100%;
+  }

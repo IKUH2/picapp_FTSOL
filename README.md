@@ -1,5 +1,8 @@
 ## アプリ名：Today's Shot
 
+![ff6671c5e1e9ea7c7cfe0618a424e043](https://user-images.githubusercontent.com/68992335/112160869-efd40a80-8c2d-11eb-96d5-cdf24d75db78.gif)
+
+
 ## 思い出をネットで共有するサービス
    Today’s shotとは、「掘り出しの古い写真集」をイメージした物。  
    写真共有することが、即ちそれ思い出すと同時に誰かに思い出を教えること。  

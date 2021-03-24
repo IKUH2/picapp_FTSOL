@@ -40,4 +40,3 @@ ID:admin  PW:9456
 使用言語:RUBY,HTML,CSS
 
 
-

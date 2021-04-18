@@ -39,4 +39,4 @@ https://picapp-ftsol.herokuapp.com/
 ID:admin  PW:9456  
 使用言語:RUBY,HTML,CSS
 
-THX!!!!
+THX!!!
